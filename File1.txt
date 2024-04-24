@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -git commands
 //modified
 
@@ -7,3 +8,6 @@
 +
 + sdet training
 +// difference
+=======
+Hello! I'm creating File 1.
+>>>>>>> fc98b2c1847841468a9891aa7ae6c34e0f7452a4
